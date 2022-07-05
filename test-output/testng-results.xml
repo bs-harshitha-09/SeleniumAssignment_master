@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-04T12:04:01 IST" name="Suite" finished-at="2022-07-04T12:04:59 IST" duration-ms="58452">
+    <groups>
+    </groups>
+    <test started-at="2022-07-04T12:04:01 IST" name="Test" finished-at="2022-07-04T12:04:59 IST" duration-ms="58452">
+      <class name="Assignment.Assignment">
+        <test-method signature="assignment(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Assignment.Assignment@1613674b]" started-at="2022-07-04T12:04:01 IST" name="assignment" finished-at="2022-07-04T12:04:59 IST" duration-ms="58260" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mumbai]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Malad]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[East, Malkani Estate, Pushpa Park, Malad East, Mumbai, Maharashtra]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[west, Sundar Ln, Kanchpada, Malad West, Mumbai, Maharashtra, India]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assignment -->
+      </class> <!-- Assignment.Assignment -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

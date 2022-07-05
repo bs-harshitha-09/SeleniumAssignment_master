@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+  <parameter name="City" value="Mumbai" />
+  <parameter name="Place" value="Malad" />
+  <parameter name="Location1" value="East, Malkani Estate, Pushpa Park, Malad East, Mumbai, Maharashtra" />
+  <parameter name="Location2" value="west, Sundar Ln, Kanchpada, Malad West, Mumbai, Maharashtra, India" />
+    <classes>
+      <class name="Assignment.Assignment"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
